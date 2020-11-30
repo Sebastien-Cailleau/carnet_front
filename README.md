@@ -1,5 +1,6 @@
 # projet-carnet-voyage
 
+## Partie front-end (React/Redux)
 
 ### Présentation du projet
 
